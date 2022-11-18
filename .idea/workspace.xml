@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be22e2e9-002e-433c-8c94-d9e27d720e27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ConcatenationOfArray1929.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JewelsAndStones771.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JewelsAndStones771.java" afterDir="false" />
     </list>
@@ -32,6 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -43,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668696694685</updated>
-      <workItem from="1668696697065" duration="968000" />
+      <workItem from="1668696697065" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668696782076</created>
@@ -52,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668696782076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added first solution">
+      <created>1668697826260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668697826260</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +69,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Added first solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first solution" />
   </component>
 </project>
