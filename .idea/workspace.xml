@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be22e2e9-002e-433c-8c94-d9e27d720e27" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeTwoSortedLists21">
-    <configuration name="LongestCommonPrefix14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix14" />
-      <module name="programming-problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArray26">
     <configuration name="MergeTwoSortedLists21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeTwoSortedLists21" />
       <module name="programming-problems" />
@@ -52,6 +46,13 @@
     </configuration>
     <configuration name="PalindromeNumber9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeNumber9" />
+      <module name="programming-problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesFromSortedArray26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromSortedArray26" />
       <module name="programming-problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray26" />
         <item itemvalue="Application.MergeTwoSortedLists21" />
         <item itemvalue="Application.ValidParentheses20" />
         <item itemvalue="Application.RomanToInteger13" />
         <item itemvalue="Application.PalindromeNumber9" />
-        <item itemvalue="Application.LongestCommonPrefix14" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +94,7 @@
       <workItem from="1668856945998" duration="2489000" />
       <workItem from="1668873191296" duration="493000" />
       <workItem from="1669143334101" duration="1327000" />
-      <workItem from="1669477929281" duration="1858000" />
+      <workItem from="1669477929281" duration="5200000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668696782076</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669144477652</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modify comments">
+      <created>1669479925107</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669479925107</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,17 +158,7 @@
     <MESSAGE value="Add solution to LeetCode #14" />
     <MESSAGE value="Add solution to LeetCode #9" />
     <MESSAGE value="Add solution to LeetCode #13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to LeetCode #13" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RomanToInteger13.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Modify comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify comments" />
   </component>
 </project>
