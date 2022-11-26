@@ -2,13 +2,7 @@ import java.util.Arrays;
 
 public class PalindromeNumber9 {
 
-    /*
-
-    LeetCode #9 - Palindrome Number
-
-    Given an integer x, return true if x is a palindrome, and false otherwise.
-
-     */
+//    LeetCode #9 - Palindrome Number
 
     public static void main(String[] args) {
         System.out.println(isPalindrome(12321));

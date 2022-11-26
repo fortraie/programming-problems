@@ -1,13 +1,6 @@
 public class LongestCommonPrefix14 {
 
-    /*
-
-    LeetCode #14 - Longest Common Prefix
-
-    Write a function to find the longest common prefix string amongst an array of strings.
-    If there is no common prefix, return an empty string "".
-
-     */
+//    LeetCode #14 - Longest Common Prefix
 
     public static void main(String[] args) {
         String [] strs = {"flower","flow","flight"};
